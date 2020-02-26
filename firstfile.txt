@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a firstfile created.
+=======
+first file to be pushed to remote repo.
+>>>>>>> 113598a35910ed125d569903ce1004819e55f1d5
